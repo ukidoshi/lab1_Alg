@@ -1,0 +1,15 @@
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/bin/Debug/net6.0/Zadacha1
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/bin/Debug/net6.0/Zadacha1.deps.json
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/bin/Debug/net6.0/Zadacha1.runtimeconfig.json
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/bin/Debug/net6.0/Zadacha1.dll
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/bin/Debug/net6.0/Zadacha1.pdb
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/Zadacha1.csproj.AssemblyReference.cache
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/Zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/Zadacha1.AssemblyInfoInputs.cache
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/Zadacha1.AssemblyInfo.cs
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/Zadacha1.csproj.CoreCompileInputs.cache
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/Zadacha1.dll
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/refint/Zadacha1.dll
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/Zadacha1.pdb
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/Zadacha1.genruntimeconfig.cache
+/Users/nacynsaryglar/RiderProjects/ConsoleApp1/Zadacha1/obj/Debug/net6.0/ref/Zadacha1.dll
